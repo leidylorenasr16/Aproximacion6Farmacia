@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ClienteCosmeticos
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ClienteCosmeticos\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=double\ getCompra1()
+comment2.params=compra1
+comment2.target=void\ setCompra1(double)
+comment3.params=
+comment3.target=double\ getCompra2()
+comment4.params=compra2
+comment4.target=void\ setCompra2(double)
+comment5.params=
+comment5.target=double\ getCompra3()
+comment6.params=compra3
+comment6.target=void\ setCompra3(double)
+comment7.params=identificacion\ nombre\ sucursal\ compra1\ compra2\ compra3
+comment7.target=ClienteCosmeticos(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment8.params=
+comment8.target=double\ calcularPromedio()
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=
+comment1.target=double\ calcularPromedio()
+comment2.params=
+comment2.target=java.lang.String\ getIdentificacion()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getSucursal()
+comment6.params=sucursal
+comment6.target=void\ setSucursal(java.lang.String)
+comment7.params=identificacion\ nombre\ sucursal
+comment7.target=Cliente(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=8
